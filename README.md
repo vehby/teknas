@@ -1,4 +1,4 @@
-# teknasyontel
+# Teknasyon
 
 ## Project setup
 ```
