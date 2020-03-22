@@ -147,7 +147,7 @@
                                                 </div>
                                                 <v-row>
                                                     <v-col cols="6">
-                                                        <div class="ccname">{{name}}</div>
+                                                        <div class="ccname">{{cui}}</div>
 
                                                     </v-col>
                                                     <v-col cols="6">
