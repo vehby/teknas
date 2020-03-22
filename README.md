@@ -1,4 +1,4 @@
-# Teknasyon
+# Teknas
 
 ## Project setup
 ```
